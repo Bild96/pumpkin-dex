@@ -1,4 +1,4 @@
-# pumpkin DEX
+# Pumpkin DEX
 
 ## Some Deployed Contracts
 **🎃 pumpkin TOKEN**
