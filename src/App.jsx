@@ -260,7 +260,7 @@ function App() {
       </div>
 
       <div className="m-2 p-4 bg-gray-200">
-        <p className="text-xs text-gray-500">⚔️ Tez Dex / Remove Liquidity</p>
+        <p className="text-xs text-gray-500">⚔🎃 Pumpkin Dex / Remove Liquidity</p>
         <form className="space-y-4 mt-4" onSubmit={(e) => {e.preventDefault(); removeLiquidity();}}>
           <div className="flex space-x-2">
             <input
