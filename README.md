@@ -1,4 +1,4 @@
-# TEZ DEX
+# pumpkin DEX
 
 ## Some Deployed Contracts
 **🎃 pumpkin TOKEN**
