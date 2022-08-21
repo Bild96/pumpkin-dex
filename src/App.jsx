@@ -32,7 +32,7 @@ function Notification({ error, setError }) {
 function Balances({catToken, lpToken}) {
   return (
     <div className="bg-gray-100 shadow-sm flex items-center justify-center p-4 mb-20 space-x-10">
-      <span className="font-semibold text-sm">🐱 Cat Token: {catToken}</span>
+      <span className="font-semibold text-sm">🎃 Pumpkin Token: {catToken}</span>
       <span className="font-semibold text-sm">🫰 LP Token: {lpToken}</span>
     </div>
   );
@@ -195,7 +195,7 @@ function App() {
     <div className="max-w-2xl mx-auto relative min-h-screen">
       {error ? <Notification error={error} setError={setError} /> : ""}
       <nav className="bg-gray-100 shadow-sm flex items-center justify-between p-4 mb-20">
-        <h1 className="text-lg font-semibold">⚔️ Tez Dex</h1>
+        <h1 className="text-lg font-semibold">🎃 Pumpkin Dex</h1>
         <div className="flex space-x-3 items-center">
           <button className={btnClass} onClick={connectToWallet}>
             {wallet
