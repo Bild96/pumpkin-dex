@@ -33,7 +33,7 @@ function Balances({catToken, lpToken}) {
   return (
     <div className="bg-gray-100 shadow-sm flex items-center justify-center p-4 mb-20 space-x-10">
       <span className="font-semibold text-sm">🐱 Cat Token: {catToken}</span>
-      <span className="font-semibold text-sm">💦 LP Token: {lpToken}</span>
+      <span className="font-semibold text-sm">🫰 LP Token: {lpToken}</span>
     </div>
   );
 }
@@ -210,7 +210,7 @@ function App() {
         lpToken={lpBalance / CONFIG.lpDecimals}
       />
       <div className="m-2 p-4 bg-gray-200">
-        <p className="text-xs text-gray-500">⚔️ Tez Dex / Exchange</p>
+        <p className="text-xs text-gray-500">🎃 Pumpkin Dex / Exchange</p>
         <form
           className="space-y-4 mt-4"
           onSubmit={(e) => {
@@ -243,7 +243,7 @@ function App() {
       </div>
 
       <div className="m-2 p-4 bg-gray-200">
-        <p className="text-xs text-gray-500">⚔️ Tez Dex / Add Liquidity</p>
+        <p className="text-xs text-gray-500">🎃 Pumpkin Dex / Add Liquidity</p>
         <form className="space-y-4 mt-4" onSubmit={(e) => {e.preventDefault(); addLiquidity();}}>
           <div className="flex space-x-2">
             <input
@@ -254,7 +254,7 @@ function App() {
               value={liquidityXtz} 
               onChange={(e) => {setLiquidityXtz(e.target.value)}}
             />
-            <button className={btnClass}>💦 Add</button>
+            <button className={btnClass}>🫰 Add</button>
           </div>
         </form>
       </div>
@@ -278,8 +278,8 @@ function App() {
 
       <p className="absolute bottom-2 right-2 text-xs font-semibold">
         Coded by{" "}
-        <a href="https://github.com/vivekascoder" className="text-blue-500">
-          @vivekascoder
+        <a href="https://github.com/TheHated1" className="text-blue-500">
+          @TheHated1
         </a>
       </p>
     </div>
