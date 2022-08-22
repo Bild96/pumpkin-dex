@@ -2,7 +2,7 @@
 
 ## Some Deployed Contracts
 **🎃 pumpkin TOKEN**
-KT1HrjGaoTmdZ8Znbup6bgV2gEpFF8tt9jo5
+KT1TFz7WARHUNc8Ek7ZQQsf1SNhNM9LdsFNr
 
 **🫰 LP Token**
 KT1AEd7ZCSdpZhNNnEwZU9sNFSkib2s7e61f
