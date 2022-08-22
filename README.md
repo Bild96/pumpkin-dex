@@ -1,7 +1,7 @@
 # Pumpkin DEX
 
 ## Some Deployed Contracts
-**🎃 pumpkin TOKEN**
+**🎃 pumpkin Token**
 KT1TFz7WARHUNc8Ek7ZQQsf1SNhNM9LdsFNr
 
 **🫰 LP Token**
