@@ -16,8 +16,11 @@ yarn install
 yarn start
 ```
 
-``` live demo
+🌐 live demo
+``` 
 https://pumpkin-dex.netlify.app
+http://pumpkin-dex-a38004.spheron.app
+
 ```
 
 ## Some Deployed Contracts
